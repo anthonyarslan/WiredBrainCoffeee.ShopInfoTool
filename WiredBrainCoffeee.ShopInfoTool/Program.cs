@@ -33,6 +33,10 @@ namespace WiredBrainCoffeee.ShopInfoTool
                         Console.WriteLine($"> " + coffeeShop.Location);
                     }
                 }
+                else
+                {
+                    Console.WriteLine($"> Tony, You are the greatest!" );
+                }
             }
         }
     }
